@@ -1,0 +1,17 @@
+.order-container{
+    flex-basis: 40%;
+}
+
+.order{
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.oreder h3{
+    margin-top: 0;
+}
+
+.oreder ul{
+    margin-top: 0;
+}

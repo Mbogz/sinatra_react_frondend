@@ -1,0 +1,14 @@
+.user-container{
+    flex-basis: 30%;
+    margin-right: 2rem;
+}
+
+.user{
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.user h3{
+    margin-top: 0;
+}
